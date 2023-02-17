@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Added features
+apart from the required  features needed in the app , more usefull and user friendly features were added 
 
-This project is a starting point for a Flutter application.
+1: introduction screen showing key app features with a spalsh screen
+2: a category screen to ease navigation 
+3: a profile screen showing user profile, orders, and tracking details
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 

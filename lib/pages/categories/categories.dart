@@ -13,25 +13,25 @@ class _CategoryListPageState extends State<CategoryListPage> {
     Category(
       Color(0xffFCE183),
       Color(0xffF68D7F),
-      'Gadgets',
+      'Mens Clothing',
       'assets/images/headphone_13.png',
     ),
     Category(
       Color(0xffF749A2),
       Color(0xffFF7375),
-      'Clothes',
+      'Electronics',
       'assets/images/headphone_13.png',
     ),
     Category(
       Color(0xff00E9DA),
       Color(0xff5189EA),
-      'Fashion',
+      'Jewelery',
       'assets/images/headphone_13.png',
     ),
     Category(
       Color(0xffAF2D68),
       Color(0xff632376),
-      'Home',
+      'womens clothing',
       'assets/images/headphone_13.png',
     ),
     Category(
